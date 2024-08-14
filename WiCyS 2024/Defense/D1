@@ -24,4 +24,4 @@ Solution:
 4. Filter by looking for the most critical vulnerabilities associated with those servers
 5. After identifying the most critical vulnerbaility, the answer will be the CVE with the highest CVSS score
 
-Answer: CVE-2024-29994
+FLAG: CVE-2024-29994
