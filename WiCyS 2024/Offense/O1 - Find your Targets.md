@@ -12,13 +12,10 @@ Provided to solve the CTF:
 https://www.sans.org/blog/what-is-open-source-intelligence/
 https://target-httpd.chals.io/casino/homepage.html
 
-For this objective, we have to find the email address of one of the employees and are given the Lucky Lion’s home page. Conveniently, there’s a “Team” page with Twitter handles.
-![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Offense/Images/O1%20-%20Find%20Your%20Targets.jpg)
-
-Checking the first person, Camilla, and viewing her Twitter account. I noticed she was following and got a reply from “Cryptic Guardian”.
-
-Following this account, I was able to locate the flag on her github page
-
-![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Offense/Images/O1%20-%20Find%20Your%20Targets%20(2).png)
+Solution:
+Going to the Lucky Lion’s home page and then the Team's webpage, we will find:
+1. The social media contact information for some employees: ![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Offense/Images/O1%20-%20Find%20Your%20Targets.jpg)
+2. Search for anyone of the employees on Twitter, but on Camilla page you will realise there is a comment from one individual that does not work at Lucky Lion
+3. Fllow the account of individual, they have a github page: ![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Offense/Images/O1%20-%20Find%20Your%20Targets%20(2).png)
 
 FLAG: ctf{maybeD0ntLISTtheC0rpEm@il}
