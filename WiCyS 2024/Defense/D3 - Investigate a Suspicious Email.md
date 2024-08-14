@@ -14,8 +14,13 @@ Provided to solve the CTF:
 
 Solution:
   Using the web browser, scan the qr-code using the search feature in the web browser
-  The text in the qr-code will appear in the format to that of the flag, BUT IT ISN'T
+  
+  The text in the qr-code will appear in the format simialr to that of the flag, BUT IT ISN'T the actual flag
+  ![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Defense/Images/D3%20-%20Investigate%20a%20Suspicious%20Email%20(1).png)
+  
   Identify the cipher used 
+  
   Copy and paste the text in Cyberchef and let it bake!! 
-
+  ![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Defense/Images/D3%20-%20Investigate%20a%20Suspicious%20Email%20(2).png)
+  
 FLAG: flag{email_ph1sh1ng_attempt}
