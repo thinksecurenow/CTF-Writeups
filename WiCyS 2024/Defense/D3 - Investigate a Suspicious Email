@@ -6,10 +6,16 @@ Objective:
   Find the evidence of attacker tampering (will have the format flag{.........})
 
 Tools Required:
-  Webpage and
+  Web Browser and
   Cyberchef Tool
 
 Provided to solve the CTF:
   Hints
 
 Solution:
+  Using the web browser, scan the qr-code using the search feature in the web browser
+  The text in the qr-code will appear in the format to that of the flag, BUT IT ISN'T
+  Identify the cipher used 
+  Copy and paste the text in Cyberchef and let it bake!! 
+
+FLAG: flag{email_ph1sh1ng_attempt}
