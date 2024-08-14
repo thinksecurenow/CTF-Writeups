@@ -13,7 +13,7 @@ https://www.sans.org/blog/what-is-open-source-intelligence/
 https://target-httpd.chals.io/casino/homepage.html
 
 For this objective, we have to find the email address of one of the employees and are given the Lucky Lion’s home page. Conveniently, there’s a “Team” page with Twitter handles.
-![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Offense/Images/O1%20-%20Find%20Your%20Targets.jpg
+![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Offense/Images/O1%20-%20Find%20Your%20Targets.jpg)
 
 I checked the first person, Camilla, and viewed her Twitter account. I noticed she was following and got a reply from “Cryptic Guardian”.
 
