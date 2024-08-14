@@ -1,5 +1,3 @@
-Secure your Perimeter
-
 Problem Description:
 After receiving a tip from a peer organization's Cyber Threat Intelligence team that prolific threat actor group Tacky Termite recently posted that they're gearing up to cyber-heist a casino, you've been tasked with making sure The Lucky Lion Casino is secured against any such cyber attacks.
 As if it were that simple! You know it's impossible for any company to be fully protected against attacks, but you can certainly make it more difficult for any would-be attacker.
