@@ -20,6 +20,7 @@ Solution:
 2. Identify the cipher used 
   
 3. Copy and paste the text in Cyberchef and let it bake!! And that's a wrap!
-  ![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Defense/Images/D3%20-%20Investigate%20a%20Suspicious%20Email%20(2).png)
+
+![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Defense/Images/D3%20-%20Investigate%20a%20Suspicious%20Email%20(2).png)
   
 FLAG: flag{email_ph1sh1ng_attempt}
