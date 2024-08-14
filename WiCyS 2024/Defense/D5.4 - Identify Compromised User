@@ -1,1 +1,21 @@
+Problem Description:
+We have the IP address that we believe is responsible for submitting credentials to the threat actor's domain. Now, our networking team has provided us with some logs that will let us find the hosts and users associated with the traffic.
+Given that in The Lucky Lion's environment, the logs are relatively small, it's easy to correlate our source.ip to the user and PC we want to look at.
+If we recall our src_ip from the Suricata alert with the POST HTTP traffic to the phishing domain (10.15.38.78) , we see that our user and host are: host: WDIGCVY2S, user: bob_wctf24
+However, in a larger incident, you may have to search through tens of thousands or more records. Let's see how we might enumerate logs in that case
 
+Objectives:
+Can you write a simple query using bash that would quickly let you search for data associated with the IP we've identified? 
+Submit that command as the flag. -Assume you are in the same directory as the file you are searching
+
+Tools Required:
+Text editor
+
+Provided to solve the CTF:
+https://www.gnu.org/software/bash/manual/bash.html
+network logs csv
+
+Solution:
+I downloaded the file to the Kali Linux VM, and ran the grep command against the file searching for the IP address
+
+FLAG: grep 10.15.38.78 networklogs.csv
