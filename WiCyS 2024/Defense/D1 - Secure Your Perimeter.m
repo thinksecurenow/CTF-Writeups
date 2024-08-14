@@ -8,7 +8,7 @@ It would definitely be best to remediate ALL of these issues, but who knows how 
 
 Objective:
 Identify the most critical vulnerability that should be remediated first
-Flag Format CVE-<year>-<number> Example: CVE-2021-44228
+Flag Format CVE-<year>-<number> Example: CVE-2021-4422
 
 Tools Required:
 Any text editor (Notepad, TextEdit, etc.)
