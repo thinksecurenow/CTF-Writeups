@@ -14,7 +14,7 @@ https://target-httpd.chals.io/casino/homepage.html
 
 Solution:
 Going to the Lucky Lion’s home page and then the Team's webpage, we will find:
-1. The social media contact information for some employees: ![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Offense/Images/O1%20-%20Find%20Your%20Targets.png)
+1. The social media contact information for some employees: ![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Offense/Images/O1%20-%20Find%20Your%20Targets.jpg)
 2. Search for anyone of the employees on Twitter, but on Camilla page you will realise there is a comment from one individual that does not work at Lucky Lion
 3. Follow the account of individual, they have a github page: ![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Offense/Images/O1%20-%20Find%20Your%20Targets%20(2).png)
 
