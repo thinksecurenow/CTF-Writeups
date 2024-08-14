@@ -1,1 +1,16 @@
+Problem Description:
+Alright, we have a good idea of how many users visited the known malicious site, but we should also try to see whether these users actually submitted credentials to the harvester, so let's take a closer look at our Suricata alert logs.
+Reviewing the traffic, what field and value indicates that credentials may have been sent to the malicious site?
 
+Objectives:
+Enter the field name that indicates a user credentials may have been sent to the malicious site and its value, exactly as in the log (i.e. "field_name": "value")
+
+Tools Required:
+Text Editor
+
+Provided to solve the CTF:
+https://docs.suricata.io/en/latest/rules/intro.html
+json file - suricata_alert.json
+
+Solution:
+FLAG: "http_method": "POST"
