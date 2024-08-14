@@ -72,4 +72,6 @@ We'll create a RegEx to match these patterns. We know the pattern is 9 character
 Testing the RegEx
 To test the regular expression, you would run the following command:
 
+![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Defense/Images/D2%20-%20Look%20for%20Insider%20Threats.png)
+
 FLAG: RegexRanger
