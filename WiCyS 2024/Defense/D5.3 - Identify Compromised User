@@ -1,1 +1,17 @@
+Problem Description:
+Let's take one final look at our alert logs. We've now identified the HTTP_method indicating credentials were sent to the phishing domain.
 
+Objectives:
+What is the IP address that was responsible for that traffic?
+
+Tools Required:
+Text Editor
+
+Provided to solve the CTF:
+https://docs.suricata.io/en/latest/rules/intro.html
+json file - suricata_alert.json
+
+Solution:
+I used the Visual Studio Code Editor to filter for the http.method:POST and then the source IP of the activity
+
+FLAG: 10.15.38.78
