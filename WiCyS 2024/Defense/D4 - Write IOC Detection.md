@@ -13,7 +13,7 @@ Provided to solve the CTF:
 https://docs.suricata.io/en/latest/
 
 Solution:
-After reviewing the suricata document for more than 10 minutes, I relaised the missing flag was part of suricata rule.
+After reviewing the suricata document for more than 10 minutes, I realized the missing flag was part of suricata rule.
 
 "alert http $CORP_NET any -> $EXTERNAL_NET any (msg:"Detected traffic to wood-chewers.trees"; http.host; content:"wood-chewers.trees"; sid:1000001; rev:1;)"
 
