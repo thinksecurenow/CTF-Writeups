@@ -20,7 +20,7 @@ Solution:
 2. Look at the diagram and identify those servers that are public/internet facing eg. ar276joiu and jo124lkej
 3. Open the vulnerability report using notepad as suggested. I used Visual Studio Code Editor
 4. Filter by looking for the most critical vulnerabilities associated with those servers
-5. After identifying the most critical vulnerbaility, the answer will be the CVE with the highest CVSS score
+5. After identifying the most critical vulnerability, the answer will be the CVE with the highest CVSS score and a critical risk level
 
 ![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Defense/Images/D1%20-%20Secure%20Your%20Perimeter.png)
 
