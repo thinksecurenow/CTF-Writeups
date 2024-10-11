@@ -24,4 +24,4 @@ Solution:
 
 ![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Defense/Images/D1%20-%20Secure%20Your%20Perimeter.png)
 
-FLAG: CVE-2024-29994
+FLAG: CVE-2024-XXXXX
