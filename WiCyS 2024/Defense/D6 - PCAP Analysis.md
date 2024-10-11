@@ -22,4 +22,4 @@ Download the pcap.zip file and review the http.method:GET to identify the file w
 
 ![image](https://github.com/thinksecurenow/CTF-Writeups/blob/main/WiCyS%202024/Defense/Images/D6.%20PCAP%20Analysis.png)
 
-FLAG: http://anydesk.com:8000/AnyDesk.exe
+FLAG: http://XXXXXXX.XXX:XXXX/XXXXXXXX.XXX
