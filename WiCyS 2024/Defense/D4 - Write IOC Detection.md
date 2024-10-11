@@ -17,4 +17,4 @@ After reviewing the suricata document for more than 10 minutes, I realized the m
 
 "alert http $CORP_NET any -> $EXTERNAL_NET any (msg:"Detected traffic to wood-chewers.trees"; http.host; content:"wood-chewers.trees"; sid:1000001; rev:1;)"
 
-FLAG: content:"wood-chewers.trees"
+FLAG: content:"wood-XXXXXX.XXXXX"
